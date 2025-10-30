@@ -1,3 +1,6 @@
 "ciao" 
 "ciao2" 
 "hello world"  
+"hello" 
+"ciao ciao" 
+"ciao!" 
